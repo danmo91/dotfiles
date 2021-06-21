@@ -8,7 +8,6 @@ then
     # Do **NOT** replace this username with your username.
     cartridge insert shameelabd/shopify-reportify-config
     . /cartridges/shopify-reportify-config/setup.sh
-﻿
     restart
   fi
 fi
